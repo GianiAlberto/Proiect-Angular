@@ -1,0 +1,32 @@
+.cropEgypt
+
+{  
+
+    margin-top:16px;
+    margin-left: -10px;
+    height: 900px;
+    width: 1520px;
+    overflow: hidden;
+
+}
+.fundalEgypt
+{  
+width: 1520px;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Caesar+Dressing');
+h1{
+   
+    position:absolute;
+    margin-top:200px;
+    margin-left:650px;
+    font-family: "Caesar Dressing", cursive;
+    font-weight: bold;
+    text-decoration: underline overline;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 90px;
+    letter-spacing: 20px;
+    color: rgb(255, 191, 0);
+    text-shadow: rgb(0, 0, 0) 7px 2px 5px;
+}
